@@ -18,5 +18,9 @@ export default {
 </script>
 
 <style scoped lang="scss">
-
+    .title{
+        font-size: 30px;
+        color: red;
+        margin-bottom: 40px;
+    }
 </style>
